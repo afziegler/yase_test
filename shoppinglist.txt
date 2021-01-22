@@ -1,3 +1,6 @@
 potatoes
 apples
 carrots
+
+coffee
+chocolate
